@@ -2,6 +2,7 @@ package com.example.ioasys_test
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.ioasys_test.ui.main.HomeFragment
 import com.example.ioasys_test.ui.main.LoginFragment
 
 class MainActivity : AppCompatActivity() {

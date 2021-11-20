@@ -10,4 +10,8 @@
     <string name="login_invalid_credentials">Credenciais informadas são inválidas, tente novamente.</string>
 
 
+    <!--    Home Screen strings-->
+    <string name="home_search_label">Pesquisar</string>
+    <string name="home_search_instruction_label">Clique na busca para iniciar.</string>
+
 </resources>
