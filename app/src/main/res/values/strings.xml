@@ -5,6 +5,8 @@
     <string name="login_welcome_label">Bem-vindo ao Empresas</string>
     <string name="login_lorem_ipsum_label">Lorem ipsum dolor sit amet, contetur adipiscing elit. Nunc accumsan.</string>
     <string name="login_enter_label">Entrar</string>
+    <string name="login_email_label">E-mail</string>
+    <string name="login_password_label">Senha</string>
     <string name="login_invalid_credentials">Credenciais informadas são inválidas, tente novamente.</string>
 
 
