@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    Ioasys Text Styles dimens.-->
+
+    <dimen name="text_tyle_dimen">17sp</dimen>
+    <dimen name="text_tyle_2_dimen">79sp</dimen>
+    <dimen name="text_tyle_3_dimen">20sp</dimen>
+    <dimen name="text_tyle_4_dimen">15sp</dimen>
+    <dimen name="text_tyle_6_dimen">17sp</dimen>
+    <dimen name="text_tyle_7_dimen">17sp</dimen>
+    <dimen name="text_tyle_8_dimen">17sp</dimen>
+
+</resources>

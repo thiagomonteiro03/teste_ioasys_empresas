@@ -9,16 +9,30 @@
     <color name="white">#FFFFFFFF</color>
 
 
-    <!--    Ioasys login fragment colors.-->
+    <!--    Ioasys Styleguide.-->
+    <color name="white_styleguide">#ffffff</color>
+    <color name="warm_grey_styleguide">#8d8c8c</color>
+    <color name="white_two_styleguide">#d8d8d8</color>
+    <color name="greyish_styleguide">#acabab</color>
+    <color name="water_styleguide">#57bbbc</color>
+    <color name="dark_indigo_styleguide">#1a0e49</color>
+    <color name="soft_green_styleguide">#7dc075</color>
+    <color name="steel_grey_styleguide">#748383</color>
+    <color name="neon_red_styleguide">#ff0f44</color>
+    <color name="rouge_styleguide">#991237</color>
+    <color name="charcoal_grey_styleguide">#383743</color>
+    <color name="black_styleguide">#000000</color>
+    <color name="charco_two_styleguide">#403e4d</color>
+    <color name="medium_pink_styleguide">#ee4c77</color>
+    <color name="beige_styleguide">#ebe9d7</color>
 
-    <color name="beige_color">#ebe9d7</color>
-    <color name="black_color">#000000</color>
-    <color name="dark_blue_color">#140c35</color>
-    <color name="water_color">#57bbbc</color>
-    <color name="white_color">#ffffff</color>
-    <color name="black_054_color">#8a000000</color>
-    <color name="charcoal_grey_color">#383743</color>
-    <color name="medium_pink_color">#ee4c77</color>
-    <color name="neon_red_color">#ff0f44</color>
+    <!--    Ioasys Text Styles.-->
+    <color name="text_style_color">@color/warm_grey_styleguide</color>
+    <color name="text_style_2_color">@color/white_styleguide</color>
+    <color name="text_style_3_color">@color/charcoal_grey_styleguide</color>
+    <color name="text_style_4_color">@color/white_styleguide</color>
+    <color name="text_style_6_color">@color/warm_grey_styleguide</color>
+    <color name="text_style_7_color">@color/warm_grey_styleguide</color>
+    <color name="text_style_8_color">@color/dark_indigo_styleguide</color>
 
 </resources>
