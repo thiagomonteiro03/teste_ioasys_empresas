@@ -9,13 +9,16 @@
     <color name="white">#FFFFFFFF</color>
 
 
-    //Ioasys login fragment colors.
+    <!--    Ioasys login fragment colors.-->
+
     <color name="beige_color">#ebe9d7</color>
     <color name="black_color">#000000</color>
     <color name="dark_blue_color">#140c35</color>
     <color name="water_color">#57bbbc</color>
     <color name="white_color">#ffffff</color>
+    <color name="black_054_color">#8a000000</color>
     <color name="charcoal_grey_color">#383743</color>
     <color name="medium_pink_color">#ee4c77</color>
+    <color name="neon_red_color">#ff0f44</color>
 
 </resources>

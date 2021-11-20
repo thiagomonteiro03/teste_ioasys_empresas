@@ -9,6 +9,10 @@ import com.example.ioasys_test.R
 
 class LoginFragment : Fragment() {
 
+    companion object {
+        fun newInstance() = LoginFragment()
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
     }

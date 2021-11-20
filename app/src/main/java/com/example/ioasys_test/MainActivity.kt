@@ -1,8 +1,8 @@
 package com.example.ioasys_test
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.ioasys_test.ui.main.MainFragment
+import androidx.appcompat.app.AppCompatActivity
+import com.example.ioasys_test.ui.main.LoginFragment
 
 class MainActivity : AppCompatActivity() {
 
@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.main_activity)
         if (savedInstanceState == null) {
             supportFragmentManager.beginTransaction()
-                .replace(R.id.container, MainFragment.newInstance())
+                .replace(R.id.container, LoginFragment.newInstance())
                 .commitNow()
         }
     }
